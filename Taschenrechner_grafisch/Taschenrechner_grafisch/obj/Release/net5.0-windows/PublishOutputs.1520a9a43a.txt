@@ -1,0 +1,5 @@
+C:\Users\scherlda\OneDrive\Programmieren\C#\Taschenrechner_grafisch\v2.0_Taschenrechner_grafisch_exe\Taschenrechner_grafisch.exe
+C:\Users\scherlda\OneDrive\Programmieren\C#\Taschenrechner_grafisch\v2.0_Taschenrechner_grafisch_exe\Taschenrechner_grafisch.dll
+C:\Users\scherlda\OneDrive\Programmieren\C#\Taschenrechner_grafisch\v2.0_Taschenrechner_grafisch_exe\Taschenrechner_grafisch.deps.json
+C:\Users\scherlda\OneDrive\Programmieren\C#\Taschenrechner_grafisch\v2.0_Taschenrechner_grafisch_exe\Taschenrechner_grafisch.runtimeconfig.json
+C:\Users\scherlda\OneDrive\Programmieren\C#\Taschenrechner_grafisch\v2.0_Taschenrechner_grafisch_exe\Taschenrechner_grafisch.pdb
